@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Gen AI 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨‍💻 All of my projects are available at 
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS, Bootstrap, Advanced GitHub
 
 
