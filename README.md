@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zia Uddin
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Gen AI 
-- 💞️ I’m looking to collaborate on ...
-- 👨‍💻 All of my projects are available at 
+- 🌱 I’m currently learning React.js
+- 👨‍💻 All of my projects are available at https://ziauddin14.github.io/JavaScript-Projects/
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS, Bootstrap, Advanced GitHub
 
 
