@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning React.js
 - 👨‍💻 All of my projects are available at https://ziauddin14.github.io/JavaScript-Projects/
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS, Bootstrap, Advanced GitHub
+- 💼 Check out my portfolio at: https://ziauddin14.github.io/Portfolio-Website/
+- 📫 Reach me at: zu37216@gmail.com
 
 
 <!---
