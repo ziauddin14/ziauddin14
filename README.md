@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Backend Development** and exploring **AI & Data Science**
 - 💻 Passionate about building responsive and interactive web apps
 - 📁 All my projects: [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)
-- 🌐 My portfolio: [Portfolio Website](https://ziauddin14.github.io/Portfolio-/)
+- 🌐 My portfolio: [Portfolio Website]([https://ziauddin14.github.io/Portfolio-/](https://port-folio-rho-ivory.vercel.app/))
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, GitHub, Firebase, Python**
 - 📫 Reach me at: **zu37216@gmail.com**
 
