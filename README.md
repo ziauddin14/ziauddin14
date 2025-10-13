@@ -47,9 +47,10 @@ JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziauddin14&show_icons=true&theme=dark&count_private=true" alt="ziauddin14's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziauddin14&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziauddin14&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="ziauddin14's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziauddin14&layout=compact&theme=dark&cache_seconds=1800" height="165" />
 </p>
+
 
 ---
 
