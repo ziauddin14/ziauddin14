@@ -3,27 +3,11 @@
 <h3 align="center">Frontend Developer | Passionate about creating dynamic and user-friendly web applications</h3>
 
 ---
-
-### 🌱 I’m currently learning
-- Backend Development  
-- AI & Data Science  
-
-### 💡 Ask me about
-JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn  
-
+🌱 I’m currently learning Backend Development and  AI & Data Science  
+💡 Ask me about : JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn  
+🌐 My Work : All my JavaScript projects: [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  🌍 Portfolio Website: [Portfolio Website](https://port-folio-rho-ivory.vercel.app/)  
+📫 How to reach me: **Email:** [zu37216@gmail.com](mailto:zu37216@gmail.com)
 ---
-
-### 🌐 My Work
-- 💻 All my JavaScript projects: [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  
-- 🌍 Portfolio Website: [Portfolio Website](https://port-folio-rho-ivory.vercel.app/)  
-
----
-
-### 📫 How to reach me
-**Email:** [zu37216@gmail.com](mailto:zu37216@gmail.com)
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
