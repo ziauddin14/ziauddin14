@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 💻 I'm a **MERN Stack Developer** passionate about building dynamic, scalable, and user-friendly web applications.  
-- 🌱 Currently learning **Backend Development** and diving into **AI & Data Science**.  
+- 🌱 Currently learning **AI & Data Science**.  
 - 💡 Ask me about **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn**.  
 - 🌐 Check out my work:  
   👉 [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  
