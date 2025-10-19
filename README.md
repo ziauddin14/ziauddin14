@@ -10,7 +10,7 @@
 - 💡 Ask me about **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn**.  
 - 🌐 Check out my work:  
   👉 [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  
-  🌍 [Portfolio Website]((https://my-portfolio-eosin-eta-18.vercel.app))  
+  🌍 [Portfolio Website](https://my-portfolio-eosin-eta-18.vercel.app/)
 - 📫 Reach me at: **[zu37216@gmail.com](mailto:zu37216@gmail.com)**  
 
 ---
