@@ -65,7 +65,7 @@
 ### 💰 Donation & Zakat Management System
 🔹 MERN Stack based donation & campaign management platform  
 🔹 Authentication, Admin Dashboard, Campaigns, Donations  
-👉 *(Repo link add kar dena yahan)*
+👉 (https://zakat-ms.vercel.app/)
 
 ### 🛒 E-commerce Full Stack App
 🔹 MERN Stack | JWT Auth | Admin Panel | Payments  
