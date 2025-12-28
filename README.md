@@ -66,4 +66,4 @@
 
 ---
 
-⭐️ **From [Zia Uddin](https://port-folio-rho-ivory.vercel.app/)**                 bhai ismen mery Github states shi se work nhi kr rhy hyn isko set krdo 
+⭐️ **From [Zia Uddin](https://port-folio-rho-ivory.vercel.app/)**                 
