@@ -5,35 +5,59 @@
 
 ### 👨‍💻 About Me
 
-- 💻 MERN Stack Developer building scalable web apps  
-- 🌱 Learning **AI & Data Science**  
-- 💡 JavaScript | TypeScript | React | Node | MongoDB | Python  
-- 🌐 Projects:  
-  👉 https://ziauddin14.github.io/JavaScript-Projects/  
-  🌍 https://my-portfolio-eosin-eta-18.vercel.app/  
-- 📫 **zu37216@gmail.com**
+- 💻 I'm a **MERN Stack Developer** passionate about building dynamic, scalable, and user-friendly web applications.  
+- 🌱 Currently learning **AI & Data Science**.  
+- 💡 Ask me about **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn**.  
+- 🌐 Check out my work:  
+  👉 [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  
+  🌍 [Portfolio Website](https://my-portfolio-eosin-eta-18.vercel.app/)
+- 📫 Reach me at: **[zu37216@gmail.com](mailto:zu37216@gmail.com)**  
 
 ---
 
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/zia-uddin-23327b341/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.facebook.com/ziauddin114/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://www.instagram.com/zia_uddin_ima/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/ziauddin114/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/zia_uddin_ima/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
 ---
 
-### ⚙️ Languages & Tools
+### ⚙️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,tailwind,bootstrap,nodejs,nestjs,express,mongodb,graphql,firebase,python,numpy,pandas,matplotlib,git,github,vercel,netlify,postman,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats (FIXED)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziauddin14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -42,12 +66,4 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziauddin14&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-⭐️ From **Zia Uddin**
+⭐️ **From [Zia Uddin](https://port-folio-rho-ivory.vercel.app/)**                 bhai ismen mery Github states shi se work nhi kr rhy hyn isko set krdo 
