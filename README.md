@@ -3,31 +3,40 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 I'm a **MERN Stack Developer** passionate about building dynamic, scalable, and user-friendly web applications.  
-- 🌱 Currently learning **AI & Data Science**.  
-- 💡 Ask me about **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase, Python, NumPy, Pandas, Matplotlib, Seaborn**.  
+- 💻 MERN Stack Developer passionate about building **dynamic, scalable & user-friendly** web applications  
+- 🌱 Currently learning **AI & Data Science**  
+- 💡 Ask me about  
+  **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase,  
+  Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🌐 Check out my work:  
-  👉 [JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)  
-  🌍 [Portfolio Website](https://my-portfolio-eosin-eta-18.vercel.app/)
-- 📫 Reach me at: **[zu37216@gmail.com](mailto:zu37216@gmail.com)**  
+  👉 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
+  🌍 **[Portfolio Website](https://my-portfolio-eosin-eta-18.vercel.app/)**  
+- 📫 Reach me at: **zu37216@gmail.com**
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/ziauddin114/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/zia_uddin_ima/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/ziauddin114/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/zia_uddin_ima/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
-### ⚙️ Languages and Tools
+## ⚙️ Languages & Tools
 
 <p align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -57,7 +66,24 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+### 🚀 JavaScript Projects
+🔹 Collection of JavaScript mini & advanced projects  
+👉 https://ziauddin14.github.io/JavaScript-Projects/
+
+### 💰 Donation & Zakat Management System
+🔹 MERN Stack based donation & campaign management platform  
+🔹 Authentication, Admin Dashboard, Campaigns, Donations  
+👉 *(Repo link add kar dena yahan)*
+
+### 🛒 E-commerce Full Stack App
+🔹 MERN Stack | JWT Auth | Admin Panel | Payments  
+👉 https://github.com/ziauddin14/ecommerce-fullstack-design
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziauddin14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -66,4 +92,20 @@
 
 ---
 
-⭐️ **From [Zia Uddin](https://port-folio-rho-ivory.vercel.app/)**                 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ziauddin14&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ziauddin14/ziauddin14/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐️ **From Zia Uddin**
