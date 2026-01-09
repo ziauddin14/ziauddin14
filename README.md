@@ -78,8 +78,11 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziauddin14&theme=radical" alt="GitHub streak" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ziauddin14&theme=dracula" alt="Contribution graph" />
+  <!-- Contribution graph replacement (ghchart) -->
+  <img src="https://ghchart.rshah.org/ziauddin14" alt="Contribution graph" />
+
+  <!-- Streak image removed because many heroku-based services are down; use a shields.io badge if you prefer -->
+  <!-- Example shield: https://img.shields.io/badge/GitHub-Streak-informational -->
 </p>
 
 ---
