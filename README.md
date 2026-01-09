@@ -69,22 +69,18 @@
 🔹 Authentication, Admin Dashboard, Campaigns, Donations  
 👉 https://zakat-ms.vercel.app/
 ---
-
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziauddin14&show_icons=true&count_private=true&theme=radical" alt="Zia's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziauddin14&layout=compact&theme=radical" alt="Top languages" />
+  <!-- Reliable shields.io badges -->
+  <img src="https://img.shields.io/github/followers/ziauddin14?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ziauddin14?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/ziauddin14?label=Public%20Repos" alt="Public Repos" />
 </p>
 
 <p align="left">
-  <!-- Contribution graph replacement (ghchart) -->
+  <!-- Contribution graph (ghchart) -->
   <img src="https://ghchart.rshah.org/ziauddin14" alt="Contribution graph" />
-
-  <!-- Streak image removed because many heroku-based services are down; use a shields.io badge if you prefer -->
-  <!-- Example shield: https://img.shields.io/badge/GitHub-Streak-informational -->
 </p>
-
----
 
 ⭐️ **From Zia Uddin**
