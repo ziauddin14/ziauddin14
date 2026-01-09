@@ -19,14 +19,16 @@
 
 ## 🤝 Connect with Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.facebook.com/ziauddin114/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" /></a> <a href="https://www.instagram.com/zia_uddin_ima/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/zia-uddin-23327b341/" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/ziauddin14" target="_blank">GitHub</a>
+</p>
 
 ---
 
 ## ⚙️ Languages & Tools
 
 <p align="left">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -65,10 +67,20 @@
 ### 💰 Donation & Zakat Management System
 🔹 MERN Stack based donation & campaign management platform  
 🔹 Authentication, Admin Dashboard, Campaigns, Donations  
-👉 (https://zakat-ms.vercel.app/)
+👉 https://zakat-ms.vercel.app/
 ---
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziauddin14&show_icons=true&count_private=true&theme=radical" alt="Zia's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziauddin14&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziauddin14&theme=radical" alt="GitHub streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ziauddin14&theme=dracula" alt="Contribution graph" />
+</p>
 
 ---
 
