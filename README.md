@@ -66,35 +66,9 @@
 🔹 MERN Stack based donation & campaign management platform  
 🔹 Authentication, Admin Dashboard, Campaigns, Donations  
 👉 (https://zakat-ms.vercel.app/)
-
-### 🛒 E-commerce Full Stack App
-🔹 MERN Stack | JWT Auth | Admin Panel | Payments  
-👉 https://github.com/ziauddin14/ecommerce-fullstack-design
-
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziauddin14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziauddin14&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziauddin14&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ziauddin14/ziauddin14/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
