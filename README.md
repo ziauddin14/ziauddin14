@@ -62,11 +62,12 @@
 🔹 Collection of JavaScript mini & advanced projects  
 👉 https://ziauddin14.github.io/JavaScript-Projects/
 
-### 💰 Donation & Zakat Management System
-🔹 MERN Stack based donation & campaign management platform  
-🔹 Authentication, Admin Dashboard, Campaigns, Donations  
-👉 (https://zakat-ms.vercel.app/)
----
+### 🚀 Zakat Managment System 
+🔹 MERN Stack Zakat MS
+
+👉 https://zakat-ms.vercel.app
+
+
 
 
 
