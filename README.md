@@ -2,7 +2,6 @@
 <h3 align="center">MERN Stack Developer | Exploring AI & Data Science 🚀</h3>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 💻 MERN Stack Developer passionate about building **dynamic, scalable & user-friendly** web applications  
