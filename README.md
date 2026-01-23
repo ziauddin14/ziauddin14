@@ -11,7 +11,7 @@
   Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🌐 Check out my work:  
   👉 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
-  🌍 **[Portfolio Website](https://zia-uddin-portfolio.vercel.app/)**  
+  🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
 - 📫 Reach me at: **zu37216@gmail.com**
 
 ---
