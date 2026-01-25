@@ -63,8 +63,11 @@
 
 ### 🚀 Zakat Managment System 
 🔹 MERN Stack Zakat MS
-
 👉 https://zakat-ms.vercel.app
+
+### 🚀 NovaTalk- AI Powered Chatbot 
+🔹 MERN Stack Chtbot which give you answer based on it's data like GPT-1 model
+👉 https://novatalk-plum.vercel.app
 
 
 
