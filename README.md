@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Uddin</h1>
-<h3 align="center">MERN Stack Developer | Exploring AI & Data Science 🚀</h3>
+<h3 align="center">MERN Stack Developer | Exploring AI & Data Science </h3>
 
 ---
 ## 👨‍💻 About Me
@@ -67,6 +67,7 @@
 
 ### 🚀 NovaTalk- AI Powered Chatbot 
 🔹 MERN Stack Chtbot which give you answer based on it's data like GPT-1 model
+
 👉 https://novatalk-plum.vercel.app
 
 
