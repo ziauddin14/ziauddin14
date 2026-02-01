@@ -12,6 +12,9 @@
 - 🌐 Check out my work:  
   👉 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
   🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
+  🌍 **[Zakat Managment System](https://zakat-ms.vercel.app)**  
+  🌍 **[NovaTalk-Chatbot](https://novatalk-plum.vercel.app)**  
+  🌍 **[Human-Healthcare.com](https://human-healthcare.com/)**  
 - 📫 Reach me at: **zu37216@gmail.com**
 
 ---
@@ -52,27 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 JavaScript Projects
-🔹 Collection of JavaScript mini & advanced projects  
-👉 https://ziauddin14.github.io/JavaScript-Projects/
-
-### 🚀 Zakat Managment System 
-🔹 MERN Stack Zakat MS
-👉 https://zakat-ms.vercel.app
-
-### 🚀 NovaTalk- AI Powered Chatbot 
-🔹 MERN Stack Chtbot which give you answer based on it's data like GPT-1 model
-
-👉 https://novatalk-plum.vercel.app
-
-
-
-
 
 ---
 
