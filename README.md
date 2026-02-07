@@ -15,6 +15,7 @@
   🌍 **[Zakat Managment System](https://zakat-ms.vercel.app)**  
   🌍 **[NovaTalk-Chatbot](https://novatalk-plum.vercel.app)**  
   🌍 **[Human-Healthcare.com](https://human-healthcare.com/)**  
+  🌍 **[Zakat-Calculator](https://zakat-ms.vercel.app/zakat-calculator)**  
 - 📫 Reach me at: **zu37216@gmail.com**
 
 ---
