@@ -56,7 +56,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
+## 🔥 Contribution Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziauddin14&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziauddin14&theme=react-dark&hide_border=true" />
+</p>
 ---
 
 ⭐️ **From Zia Uddin**
