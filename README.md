@@ -13,6 +13,7 @@
   👉 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
   🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
   🌍 **[Zakat Managment System](https://zakat-ms.vercel.app)**  
+  🌍 **[Primecare(Health Managment)](https://primecarehealth.vercel.app)**  
   🌍 **[NovaTalk-Chatbot](https://novatalk-plum.vercel.app)**  
   🌍 **[Human-Healthcare.com](https://human-healthcare.com/)**  
   🌍 **[Zakat-Calculator](https://zakat-ms.vercel.app/zakat-calculator)**  
