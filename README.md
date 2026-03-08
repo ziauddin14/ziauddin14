@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Uddin</h1>
-<h3 align="center">MERN Stack Developer | Aspiring Data Analyst | Exploring AI & Data Science </h3>
+<h3 align="center">MERN Stack Developer |  Data Analyst | Exploring AI & Data Science </h3>
 
 ---
 ## 👨‍💻 About Me
