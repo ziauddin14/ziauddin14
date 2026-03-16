@@ -16,6 +16,7 @@
   🌍 **[Primecare(Health Managment)](https://primecarehealth.vercel.app)**  
   🌍 **[NovaTalk-Chatbot](https://novatalk-plum.vercel.app)**  
   🌍 **[Human-Healthcare.com](https://human-healthcare.com/)**  
+  🌍 **[Crypto-Analytics](https://crypto-analytics-dashboard.streamlit.app/)**  
   🌍 **[Zakat-Calculator](https://zakat-ms.vercel.app/zakat-calculator)**  
 - 📫 Reach me at: **zu37216@gmail.com**
 
