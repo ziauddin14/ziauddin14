@@ -10,7 +10,7 @@
   **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase,  
   Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🌐 Check out my work:  
-  👉 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
+  🌍 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
   🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
   🌍 **[Zakat Managment System](https://zakat-ms.vercel.app)**  
   🌍 **[Primecare(Health Managment)](https://primecarehealth.vercel.app)**  
