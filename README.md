@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Uddin</h1>
-<h3 align="center">MERN Stack Developer |  Data Analyst | Exploring AI & Data Science </h3>
+<h3 align="center">Aspiring AI Engineer |MERN Stack Developer  </h3>
 
 ---
 ## 👨‍💻 About Me
@@ -10,6 +10,7 @@
   Python, NumPy, Pandas, Matplotlib, Seaborn**  
 - 🌐 Check out my work:
 - 
+  🌍 **[Digital Personel Secretry](https://digitalpersonelsecretory.vercel.app/)**  
   🌍 **[Softwaremine](https://softwaremine.vercel.app/)**  
   🌍 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
   🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
