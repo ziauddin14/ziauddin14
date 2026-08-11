@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zia Uddin</h1>
-<h3 align="center">Aspiring AI Engineer |MERN Stack Developer  </h3>
 
----
-## 👨‍💻 About Me
+<h3 align="center">AI Engineer | AI Automation Engineer | Full-Stack Developer</h3>
 
-- 💻 MERN Stack Developer passionate about building **dynamic, scalable & user-friendly** web applications  
-- 🌱 Currently learning **AI & Data Science**  
-- 💡 Ask me about  **JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, Firebase,  
-  Python, NumPy, Pandas, Matplotlib, Seaborn**  
+<p align="center"> Building AI-powered applications, intelligent workflows, business automation systems, and scalable full-stack solutions. </p>
+
+👨‍💻 About Me
+🤖 AI Engineer and Full-Stack Developer focused on AI-powered applications, intelligent automation, and modern software systems
+⚙️ Experienced in analyzing business processes and transforming manual workflows into digital and automated solutions
+🚀 Founder & Lead AI Engineer at Softwaremine, building AI-powered software, SaaS products, automation systems, and digital solutions
+🧠 Working with AI/LLM integration, AI assistants, intelligent workflows, and AI-driven applications
+💻 Strong hands-on experience with the MERN Stack, Next.js, TypeScript, Node.js, Python, REST APIs, and databases
+📊 Building data analytics platforms, ETL pipelines, dashboards, and Python-based automation solutions
+🏗️ Interested in solving real-world business problems through AI, automation, software engineering, and digital transformation
+🌍 Open to remote opportunities, freelance projects, AI engineering roles, and technical collaborations.
+
 - 🌐 Check out my work:
 - 
   🌍 **[Digital Personel Secretry](https://digitalpersonelsecretory.vercel.app/)**  
