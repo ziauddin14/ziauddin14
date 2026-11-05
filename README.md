@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zia Uddin</h1>
 
-<h3 align="center">AI Engineer | AI Automation Engineer | Full-Stack Developer</h3>
+<h3 align="center">AI Automation Engineer | Full-Stack Developer</h3>
 
 <p align="center"> Building AI-powered applications, intelligent workflows, business automation systems, and scalable full-stack solutions. </p>
 
 👨‍💻 About Me
-🤖 AI Engineer and Full-Stack Developer focused on AI-powered applications, intelligent automation, and modern software systems
+🤖 AI Automation Engineer and Full-Stack Developer focused on AI-powered applications, intelligent automation, and modern software systems
 ⚙️ Experienced in analyzing business processes and transforming manual workflows into digital and automated solutions
 🚀 Founder & Lead AI Engineer at Softwaremine, building AI-powered software, SaaS products, automation systems, and digital solutions
 🧠 Working with AI/LLM integration, AI assistants, intelligent workflows, and AI-driven applications
@@ -14,18 +14,10 @@
 🏗️ Interested in solving real-world business problems through AI, automation, software engineering, and digital transformation
 🌍 Open to remote opportunities, freelance projects, AI engineering roles, and technical collaborations.
 
-- 🌐 Check out my work:
-- 
-  🌍 **[Digital Personel Secretry](https://digitalpersonelsecretory.vercel.app/)**  
-  🌍 **[Softwaremine](https://softwaremine.vercel.app/)**  
-  🌍 **[JavaScript Projects](https://ziauddin14.github.io/JavaScript-Projects/)**  
-  🌍 **[Portfolio Website](https://ziauddin.vercel.app/)**  
-  🌍 **[Zakat Managment System](https://zakat-ms.vercel.app)**  
-  🌍 **[Primecare(Health Managment)](https://primecarehealth.vercel.app)**  
-  🌍 **[NovaTalk-Chatbot](https://novatalk-plum.vercel.app)**  
-  🌍 **[Human-Healthcare.com](https://human-healthcare.com/)**  
-  🌍 **[Crypto-Analytics](https://crypto-analytics-dashboard.streamlit.app/)**  
-  🌍 **[Zakat-Calculator](https://zakat-ms.vercel.app/zakat-calculator)**  
+- 🌐 Check out my work at:
+- 🌍 [Portfolio][https://ziauddin.vercel.app]
+
+  
 - 📫 Reach me at: **zu37216@gmail.com**
 
 ---
