@@ -15,7 +15,7 @@
 🌍 Open to remote opportunities, freelance projects, AI engineering roles, and technical collaborations.
 
 - 🌐 Check out my work at:
-- 🌍 [Portfolio][https://ziauddin.vercel.app]
+- 🌍 Portfolio: https://ziauddin.vercel.app
 
   
 - 📫 Reach me at: **zu37216@gmail.com**
